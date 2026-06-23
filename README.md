@@ -37,6 +37,8 @@ Review salary structures for lower-income employees.
 
 ### Reduce Overtime
 Balance workloads and reduce employee burnout.
+## Dashboard Preview
+<img width="1152" height="1020" alt="image" src="https://github.com/user-attachments/assets/b65701cb-45bc-44da-aeb0-b8283c7b6346" />
 
 ### Focus on High-Risk Roles
 Create retention programs for Laboratory Technicians and Sales Executives.
